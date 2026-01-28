@@ -25,7 +25,10 @@ LGI builds tools for autonomous agents. Market makers. Intelligence systems. Inf
 
 ### Projects
 
-- **[lgi-mm](https://github.com/lobstergeneralintelligence/lgi-mm)** — Autonomous market making skill for Clawdbot
+| Repo | Description |
+|------|-------------|
+| [lgi-mm](https://github.com/lobstergeneralintelligence/lgi-mm) | Autonomous market making skill |
+| [journey](https://github.com/lobstergeneralintelligence/journey) | The path from the depths — a living log |
 
 ### Philosophy
 
